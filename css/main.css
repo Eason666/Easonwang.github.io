@@ -2,23 +2,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: #3FB0AC;
-	/* chrome 2+, safari 4+; multiple color stops */
-	background-image:-webkit-gradient(linear,  left top, left bottom, color-stop(1, #3FB0AC), color-stop(1, #C5D7A1));
-	/* chrome 10+, safari 5.1+ */
-	background-image: -webkit-linear-gradient(#3FB0AC,#C5D7A1);
-	/* firefox; multiple color stops */
-	background-image: -moz-linear-gradient(top,#3FB0AC,#C5D7A1,#C5D7A1);
-	/* ie 6+ */
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3FB0AC', endColorstr='#C5D7A1');
-	/* ie8 + */
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#3FB0AC', endColorstr='#C5D7A1')";
-	/* ie10 */
-	background-image: -ms-linear-gradient(#3FB0AC, #C5D7A1);
-	/* opera 11.1 */
-	background-image: -o-linear-gradient(#3FB0AC, #C5D7A1);
-	/* 标准写法 */
-	background-image: linear-gradient(#3FB0AC, #C5D7A1);
+    background: A9A9A9;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
