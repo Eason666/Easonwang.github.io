@@ -62,28 +62,5 @@ ul.posts li {
 }
 
 
-#bigtitle{
-	background: url(images/bigbg.jpg) no-repeat;
-	background-attachment: fixed;
-	background-position:center center;
-	background-size:cover;
-	padding: 250px 0px;
-}
 
-#intro{
-	color:#ffffff;
-	text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
-	text-align: right;
-	/*margin-right: 250px;*/
-}
-
-#title{
-	font-family: 'Montserrat', sans-serif;
-	font-size: 90px;
-}
-
-#subtitle{
-	text-transform: uppercase;
-	font-size: 40px;
-}
 
