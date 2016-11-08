@@ -45,7 +45,7 @@ p {
     color: #333;
 }
 #footer {
-	position:fixed;
+	position:absolute;
 	bottom:auto;
 	right:95%;
 }
