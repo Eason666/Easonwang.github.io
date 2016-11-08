@@ -3,6 +3,10 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+.cwidth{
+	width: 1000px;
+	margin:0 auto; /*center*/
+}
 
 
 #bg{
