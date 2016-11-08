@@ -94,9 +94,10 @@ ul.posts li {
 
 .content{
   	color:#ffffff;
-	left: 15%;
+	left: 5%;
 	position:relative;
-	font-size: small;
+	font-size: medium;
+	width : 80%;
 }
 
 #skills{
