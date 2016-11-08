@@ -74,7 +74,7 @@ ul.posts li {
 #intro{
 	color:#ffffff;
 	text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
-	text-align: right;
+	text-align: left;
 	/*margin-right: 250px;*/
 }
 
