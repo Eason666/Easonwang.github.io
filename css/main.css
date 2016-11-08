@@ -104,6 +104,11 @@ ul.posts li {
 	width : 80%;
 }
 
+#image{
+ 	width: 50%;
+	height: 50%;
+}
+
 #skills{
 	color:#ffffff;
 	left: 5%;
