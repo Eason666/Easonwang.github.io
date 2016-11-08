@@ -47,7 +47,7 @@ p {
 #footer {
 	position:absolute;
 	bottom:auto;
-	right:95%;
+	right:auto;
 }
 
 ul.posts { 
