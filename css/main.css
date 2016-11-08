@@ -95,6 +95,7 @@ ul.posts li {
 .content{
   	color:#ffffff;
 	left: 15%;
+	position:relative;
 	font-size: small;
 }
 
