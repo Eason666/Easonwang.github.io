@@ -89,10 +89,12 @@ ul.posts li {
 
 #aboutme{
  color:#ffffff;
+	top: 20%;
 	left: 10%;
 }
 
-.post-content{
+div.post-content{
   color:#ffffff;
 	left: 5%;
+	text-align: left;
 }
