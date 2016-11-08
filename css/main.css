@@ -94,13 +94,15 @@ ul.posts li {
 }
 
 .content{
-  color:#ffffff;
+  	color:#ffffff;
 	left: 5%;
+	font-size: small;
 	text-align: left;
 }
 
 #skills{
-color:#ffffff;
+	color:#ffffff;
 	left: 5%;
+	
 	text-align: left;
 }
