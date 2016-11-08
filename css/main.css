@@ -46,8 +46,8 @@ p {
 }
 #footer {
 	position:fixed;
-	bottom:5px;
-	right:30px;
+	bottom:100%;
+	right:95%;
 }
 
 ul.posts { 
