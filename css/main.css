@@ -46,7 +46,7 @@ p {
 }
 #footer {
 	position:fixed;
-	bottom:100%;
+	bottom:auto;
 	right:95%;
 }
 
