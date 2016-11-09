@@ -5,14 +5,13 @@ body {
 	height:100%;
 }
 
-
-
+/*
 #bg{
         background: url(/bg.jpg) no-repeat;
 	background-position:center center;
 	background-attachment: fixed;
 	background-size:cover;
-}
+}*/
 #footer {
 	color: #a9a9a9;
 	position:absolute;
