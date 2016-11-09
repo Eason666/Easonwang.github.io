@@ -100,9 +100,9 @@ ul.posts li {
 }
 
 #image{
- 	width: 50%;
-	height: 50%;
-	text-align:center;
+ 	width: 30%;
+	height: 30%;
+	float: right;
 }
 
 #skills{
