@@ -14,6 +14,7 @@ body {
 	background-size:cover;
 }
 #footer {
+	COLOR: #a9a9a9;
 	position:absolute;
 	bottom:5px;
 	right:30px; 
@@ -85,7 +86,7 @@ ul.posts li {
 }
 
 #aboutme{
-	color:#DCDCDC;
+	color:#B0E0E6;
 	position:relative;
 	top: 20%;
 	left: 10%;
@@ -108,7 +109,7 @@ ul.posts li {
 }
 
 #skills{
-	color:#DCDCDC;
+	color:#B0E0E6;
 	left: 5%;
 	text-shadow: 5px 5px 10px #800000;
 	text-align: left;
