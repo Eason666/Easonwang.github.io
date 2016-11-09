@@ -89,6 +89,8 @@ ul.posts li {
 	position:relative;
 	top: 20%;
 	left: 10%;
+	text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+	font-family: 'Montserrat', sans-serif;
 }
 
 .content{
@@ -108,6 +110,7 @@ ul.posts li {
 #skills{
 	color:#778899;
 	left: 5%;
-	
+	text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 	text-align: left;
+	font-family: 'Montserrat', sans-serif;
 }
