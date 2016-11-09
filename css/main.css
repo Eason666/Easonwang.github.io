@@ -85,7 +85,7 @@ ul.posts li {
 
 #aboutme{
 	color:#E6E6FA;
-	position:relative;
+	/*position:relative;*/
 	text-shadow: 5px 5px 10px #f0f8ff;
 	font-family: 'Montserrat', sans-serif;
 }
