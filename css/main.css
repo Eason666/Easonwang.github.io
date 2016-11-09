@@ -86,11 +86,11 @@ ul.posts li {
 }
 
 #aboutme{
-	color:#B0E0E6;
+	color:#E6E6FA;
 	position:relative;
 	top: 20%;
 	left: 10%;
-	text-shadow: 5px 5px 10px #800000;
+	text-shadow: 5px 5px 10px #B0E0E6;
 	font-family: 'Montserrat', sans-serif;
 }
 
@@ -109,9 +109,9 @@ ul.posts li {
 }
 
 #skills{
-	color:#B0E0E6;
+	color:#E6E6FA;
 	left: 5%;
-	text-shadow: 5px 5px 10px #800000;
+	text-shadow: 5px 5px 10px #B0E0E6;
 	text-align: left;
 	font-family: 'Montserrat', sans-serif;
 }
