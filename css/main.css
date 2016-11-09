@@ -85,7 +85,7 @@ ul.posts li {
 }
 
 #aboutme{
-	color:#778899;
+	color:#DCDCDC;
 	position:relative;
 	top: 20%;
 	left: 10%;
@@ -108,7 +108,7 @@ ul.posts li {
 }
 
 #skills{
-	color:#778899;
+	color:#DCDCDC;
 	left: 5%;
 	text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 	text-align: left;
