@@ -1,14 +1,14 @@
 
 body {
-    margin: 60px auto;
-    width: 70%;
+	margin: 60px auto;
+	width: 70%;
 	height:100%;
 }
 
 
 
 #bg{
-    background: url(/bg.jpg) no-repeat;
+        background: url(/bg.jpg) no-repeat;
 	background-position:center center;
 	background-attachment: fixed;
 	background-size:cover;
