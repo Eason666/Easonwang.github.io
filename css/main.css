@@ -5,13 +5,13 @@ body {
 	height:100%;
 }
 
-/*
+
 #bg{
         background: url(/bg.jpg) no-repeat;
 	background-position:center center;
 	background-attachment: fixed;
 	background-size:cover;
-}*/
+}
 #footer {
 	color: #a9a9a9;
 	position:absolute;
@@ -19,14 +19,14 @@ body {
 	right:30px; 
 }
 
-
+/*
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     float: right;
 	padding-right: 5%;
     list-style: none;
     font-weight: bold;
-}
+}*/
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
